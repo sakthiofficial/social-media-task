@@ -1,0 +1,108 @@
+.box {
+    background-color: gray;
+    padding: 60px 0px;
+}
+
+.clbox1 {
+    box-shadow: 10px 10px 0px 5px black;
+    margin: 30px 10px;
+    padding: 50px 0px;
+    background-color: white;
+    text-align: center
+    
+}
+.clbox1>i{
+    color:#0da2ff;
+}
+.para1{
+    padding: 10px 0px;
+}
+.clbox1>a{
+    border-bottom:2px solid rgb(41, 41, 205);
+}
+
+.clbox2 {
+    box-shadow: 10px 10px 0px 5px black;
+    margin: 50px 10px;
+    padding: 50px 0px;
+    background-color: white;
+    text-align: center
+}
+.clbox2>i{
+    color:#0da2ff;
+}
+.para2{
+    padding: 10px 0px;
+}
+.clbox2>a{
+    border-bottom:2px solid rgb(41, 41, 205);
+}
+
+.cl2box1 {
+    box-shadow: 10px 10px 0px 5px black;
+    margin: 30px 10px;
+    padding: 50px 0px;
+    background-color: white;
+    text-align: center
+}
+.cl2box1>i{
+    color:#0da2ff;
+}
+.para3{
+    padding: 10px 0px;
+}
+.cl2box1>a{
+    border-bottom:2px solid rgb(41, 41, 205);
+}
+
+
+.cl2box2 {
+    box-shadow: 10px 10px 0px 5px black;
+    margin: 50px 10px;
+    padding: 50px 0px;
+    background-color: white;
+    text-align: center
+}
+.cl2box2>i{
+    color:#0da2ff;
+}
+.para4{
+    padding: 10px 0px;
+}
+.cl2box2>a{
+    border-bottom:2px solid rgb(41, 41, 205);
+}
+
+.cl3box1 {
+    box-shadow: 10px 10px 0px 5px black;
+    margin: 30px 10px;
+    padding: 50px 0px;
+    background-color: white;
+    text-align: center
+}
+.cl3box1>i{
+    color:#0da2ff;
+}
+.para5{
+    padding: 10px 0px;
+}
+.cl3box1>a{
+    border-bottom:2px solid rgb(41, 41, 205);
+}
+
+.cl3box2 {
+    box-shadow: 10px 10px 0px 5px black;
+    margin: 50px 10px;
+    padding: 50px 0px;
+    background-color: white;
+    text-align: center
+}
+.cl3box2>i{
+    color:#0da2ff;
+}
+.para6{
+    padding: 10px 0px;
+}
+.cl3box2>a{
+    border-bottom:2px solid rgb(41, 41, 205);
+}
